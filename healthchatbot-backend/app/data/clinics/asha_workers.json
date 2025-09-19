@@ -1,0 +1,18 @@
+[
+  {
+    "asha_id": "ASHA_KLD_001",
+    "name": "Sunita Devi",
+    "district": "Kalahandi",
+    "village": "Bhawanipatna",
+    "phone": "+91-8765432109",
+    "languages": ["odia", "hindi"]
+  },
+  {
+    "asha_id": "ASHA_BBR_001",
+    "name": "Mamta Singh", 
+    "district": "Khordha",
+    "village": "Bhubaneswar",
+    "phone": "+91-8765432108",
+    "languages": ["odia", "english"]
+  }
+]

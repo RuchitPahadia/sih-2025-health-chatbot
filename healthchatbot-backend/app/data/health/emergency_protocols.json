@@ -1,0 +1,17 @@
+{
+  "high_fever": {
+    "threshold": "103°F",
+    "action": "immediate_escalation",
+    "message": "तुरंत ASHA कार्यकर्ता से संपर्क करें। 108 पर कॉल करें।"
+  },
+  "chest_pain": {
+    "keywords": ["chest pain", "सीने में दर्द", "ଛାତି ଯନ୍ତ୍ରଣା"],
+    "action": "emergency_escalation",
+    "message": "तुरंत 108 पर कॉल करें। नजदीकी अस्पताल जाएं।"
+  },
+  "breathing_difficulty": {
+    "keywords": ["breathing", "सांस", "ନିଶ୍ୱାସ"],
+    "action": "emergency_escalation", 
+    "message": "तुरंत 108 पर कॉल करें।"
+  }
+}

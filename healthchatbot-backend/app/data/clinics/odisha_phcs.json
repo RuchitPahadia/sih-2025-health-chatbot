@@ -1,0 +1,18 @@
+[
+  {
+    "clinic_id": "PHC_KLD_001",
+    "name": "Kalahandi Primary Health Centre",
+    "district": "Kalahandi",
+    "location": "Bhawanipatna",
+    "phone": "+91-9876543210",
+    "available_slots": ["09:00", "11:00", "14:00", "16:00"]
+  },
+  {
+    "clinic_id": "CHC_BBR_001", 
+    "name": "Bhubaneswar Community Health Centre",
+    "district": "Khordha",
+    "location": "Bhubaneswar",
+    "phone": "+91-9876543211",
+    "available_slots": ["10:00", "12:00", "15:00", "17:00"]
+  }
+]

@@ -1,0 +1,1 @@
+# 🤖 Person B - Multilingual support

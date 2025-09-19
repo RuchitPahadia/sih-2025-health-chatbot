@@ -1,0 +1,17 @@
+{
+  "monsoon": {
+    "diseases": ["डेंगू", "मलेरिया", "चिकुनगुनिया"],
+    "prevention": "मच्छरदानी का प्रयोग करें, पानी जमा न होने दें।",
+    "alert_level": "high"
+  },
+  "winter": {
+    "diseases": ["निमोनिया", "सर्दी-जुकाम"],
+    "prevention": "गर्म कपड़े पहनें, बुजुर्गों का ख्याल रखें।",
+    "alert_level": "medium"
+  },
+  "summer": {
+    "diseases": ["हीट स्ट्रोक", "डिहाइड्रेशन"],
+    "prevention": "ORS पिएं, धूप से बचें।",
+    "alert_level": "high"
+  }
+}
